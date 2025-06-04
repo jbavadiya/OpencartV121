@@ -1,0 +1,1 @@
+cd C:\Anant\Janhavi\QA study material\Selenium\Selenium Project\seleniumwebdriver\OpencartV121 mvn test
